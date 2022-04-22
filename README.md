@@ -1,2 +1,2 @@
 # themes
-public files
+公共文件
